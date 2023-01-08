@@ -1,13 +1,10 @@
 /*
 Programcilar Talimatları
-
 Şu kısa videoyu izleyin:
 https://www.ergineer.com/assets/materials/a664dfe7-programcilar.gif
-
 Bu bileşen, bir yandan programlama alanındaki öncülerin bir listesini,
 ve diğer tarafta o anda öne çıkan programcının idsini izler. Yani 2 adet state dilimi!
 Aynı zaman içinde yalnız bir harika programcıyı öne çıkarabiliriz.
-
 Yorumları takip edin.
 */
 
